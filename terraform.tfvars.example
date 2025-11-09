@@ -1,0 +1,6 @@
+prefix         = "acme"
+environment    = "dev"
+location       = "eastus"
+state_rg       = "tfstate-rg"
+state_sa       = "tfstateacct123"
+state_container= "tfstate"
